@@ -53,7 +53,7 @@ Please refer to the publications below for the brand guidelines which review the
 </tr>
 </table>
 
-<table style= width:"100%";>
+<table width="100%";>
 <tr>
 <td width="33.3%">
 
