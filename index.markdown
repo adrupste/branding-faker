@@ -167,11 +167,13 @@ HEX: #EDEDED
 <li><a href="svg/faker-dev-logo-horizontal-black.svg" download>faker-dev-logo-horizontal-black.svg</a></li>
 <li><a href="eps/faker-dev-logo-horizontal-black.eps" download>faker-dev-logo-horizontal-black.eps</a></li>
 </ul>
-</tr>
+
 </td>
+</tr>
+
 
 <tr>
-<td>
+<td width="50%">
 <h3>Standard Logo White </h3>
 <img src="png/faker-dev-logo-white-bg.png">
 <ul>
